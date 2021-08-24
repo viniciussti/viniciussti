@@ -9,11 +9,11 @@
 
 
 
-  <a href="https://github.com/viniciussti">
-  <details>
-  <summary>:zap: GitHub Stats</summary>
+<a href="https://github.com/viniciussti">
+<details>
+<summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Vinicius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=viniciussti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img align="left" alt="Vinicius's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=viniciussti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 
 </details>
 
