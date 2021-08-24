@@ -22,7 +22,7 @@
   <img align="center" alt="Vini-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
 
-  <img align="right" alt="Gif-Welcome" src="https://media.giphy.com/media/Ch31IjylFWM8M/giphy.gif?cid=ecf05e47m01xl1ktpibdy1h6iirnamgezsuqese0k0dy55e4&rid=giphy.gif&ct=g">
+  <img align="right" alt="Gif-Welcome" width="300" height="250" src="https://media.giphy.com/media/Ch31IjylFWM8M/giphy.gif?cid=ecf05e47m01xl1ktpibdy1h6iirnamgezsuqese0k0dy55e4&rid=giphy.gif&ct=g">
 </div>
   
     ##
